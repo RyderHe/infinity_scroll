@@ -2,10 +2,9 @@
 
 - make own loading animation with the loading.io website
 
-- implement infinite scroll functionality (as the user scolls near the bottom of the page, another network request is made but it happens before you reach the bottom)
+- implement infinite scroll functionality (as the user scrolls near the bottom of the page, another network request is made but it happens before you reach the bottom)
 
-- images are photos fetched from unflash API
-
+- images are photos fetched from unsplash API
 
 - track the moments all the images are loaded in order to dynamically hide the loading animation
 
